@@ -5,7 +5,9 @@
   <td><a href = "hoby.html">YORICA利用方法</a><br></td>
   <td><a href = "hoby.html">YORICA利用可能エリア</a><br></td>
   <td><a href = "https://kodai1221.github.io/employment/index.html">運転手雇用について</a><br></td>
-  <td><a href = "hoby.html">実績紹介</a><br></td>
+  <td><a href = "hoby.html">実績紹介</a><br></td><br>
+</tr>
+<tr>
   <td><a href = "hoby.html">問合わせ</a><br></td>
 </tr>
 </table><br>
@@ -13,7 +15,8 @@
 <h2>○○町商店街を中心に、<br>
 　あなたと○○町をつなぐ<br>
   　　地域通貨です。<br></h2>
-    
+
+<img src="IMG_9858.heric" width="20%" height="20%"><br>    
     # 商店街のお店
 
 <div align="center">
