@@ -29,7 +29,7 @@
 <a href="https://o61815.github.io/web/test2" target="_blank"><img src="kaf.jpg" width="20%"></a> 
 </div>
 
-# 連携店の外観
+# そのほかの連携店
 
 <div align="center">
 <img src="kafe.jpg" width="20%">  
