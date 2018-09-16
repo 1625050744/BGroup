@@ -1,12 +1,12 @@
 
 <table>
 <tr>
-  <th><a href = ".html">トップ</a><br></th>
-  <th><a href = "hoby.html">YORICA利用方法</a><br></th>
-  <th><a href = "hoby.html">YORICA利用可能エリア</a><br></th>
-  <th><a href = "hoby.html">運転手雇用について</a><br></th>
-  <th><a href = "hoby.html">実績紹介</a><br></th>
-  <th><a href = "hoby.html">問い合わせ</a><br></th>
+  <td><a href = ".html">トップ</a><br></td>
+  <td><a href = "hoby.html">YORICA利用方法</a><br></td>
+  <td><a href = "hoby.html">YORICA利用可能エリア</a><br></td>
+  <td><a href = "hoby.html">運転手雇用について</a><br></td>
+  <td><a href = "hoby.html">実績紹介</a><br></td>
+  <td><a href = "hoby.html">問い合わせ</a><br></td>
 </tr>
 </table><br>
 # YORICAとは、<br>
