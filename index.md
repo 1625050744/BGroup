@@ -17,7 +17,7 @@
   　　地域通貨です。<br></h2>
 
 <img src="YORICAHPgazou1.png" width="100%" height="100%"><br>    
-    # 商店街のお店
+    <h1>商店街のお店
 
 <div align="center">
 <img src="syou.jpg" width="20%">
