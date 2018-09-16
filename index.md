@@ -37,5 +37,5 @@
 <img src="tera.jpg" width="20%">  
 <img src="ramen.jpg" width="20%">  
 </div>
-<p><a href = "./">ページの上へ</a></p>
+<p><a href = "index.html">ページの上へ</a></p>
 
