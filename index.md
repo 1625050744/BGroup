@@ -16,7 +16,7 @@
 　あなたと○○町をつなぐ<br>
   　　地域通貨です。<br></h2>
 
-<img src="IMG_9858.heric" width="20%" height="20%"><br>    
+<img src="YORICAHPgazou.png" width="20%" height="20%"><br>    
     # 商店街のお店
 
 <div align="center">
