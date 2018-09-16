@@ -12,16 +12,13 @@
 </tr>
 </table><br>
 # YORICAとは、<br>
-<h2>○○町商店街を中心に、<br>
-　あなたと○○町をつなぐ<br>
-  　　地域通貨です。<br></h2>
-
 <div style="position: relative;">
 <img src="yoricaHPgazou2.png" alt="topimg"> 
 <div style="position:absolute; top:120px; left:230px; width: 430px; text-align:center;">
 <font size="6" face="ＭＳ Ｐ明朝" style="background-color: rgba(0,255,0,0.35);">YORICAとは、<br>○○町商店街を中心に<br>あなたと○○町をつなぐ<br>地域通貨です</font>
 </div></div>
 
+# YORICAでできること
 <img src="YORICAHPgazou1.png" width="100%" height="100%"><br>    
 # 商店街のお店
 
